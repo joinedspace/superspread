@@ -1,5 +1,5 @@
 # superspread
-A Monte Carlo based simulation of disease spread, similar to an SIR model.
+A Monte Carlo based simulation of disease spread, derived from an SIR model.
 
 After all initialization parameters have been set (population size, % vaccinated, spread rate, recovery time), the simulation begins and runs until no further infections occur, or there is an exit due to max iterations being exceeded (5000). 
 
