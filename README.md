@@ -5,9 +5,12 @@ After all initialization parameters have been set (population size, % vaccinated
 
 Interactions are parametrized by a random walk, and this movement is visualized in a dynamic graph. 
 
-There are four active states for the simulated population's individuals. 
+There are four active states for the simulated population's individuals:
 
 "Healthy" represents an individual who was never infected. 
+
 "Infected" represents an individual who has been infected.
+
 "Immunized" represents an individual who was either vaccinated at the start, who reached immunization by surviving the recovery time. 
+
 "Dead" represents an individual who is deceased. 
