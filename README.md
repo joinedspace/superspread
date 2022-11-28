@@ -14,3 +14,5 @@ There are four active states for the simulated population's individuals:
 "Immunized" represents an individual who was either vaccinated at the start, who reached immunization by surviving the recovery time. 
 
 "Dead" represents an individual who is deceased. 
+
+Enclosed in the "simulations" folder is a set of four outputs in both video and photo form. Each output corresponds to a different spread rate: 10%, 25%, 50%, and 75%. 
