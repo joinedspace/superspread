@@ -11,7 +11,7 @@ There are four active states for the simulated population's individuals:
 
 "Infected" represents an individual who has been infected.
 
-"Immunized" represents an individual who was either vaccinated at the start, who reached immunization by surviving the recovery time. 
+"Immunized" represents an individual who was either vaccinated at the start, or who reached immunization by surviving the recovery time. 
 
 "Dead" represents an individual who is deceased. 
 
