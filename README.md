@@ -7,12 +7,12 @@ Interactions are parametrized by a random walk, and this movement is visualized 
 
 There are four active states for the simulated population's individuals:
 
-"Healthy" represents an individual who was never infected. 
+"Healthy" represents an individual who is not and has never been infected.
 
-"Infected" represents an individual who has been infected.
+"Infected" represents an individual who has become infected.
 
-"Immunized" represents an individual who was either vaccinated at the start, or who reached immunization by surviving the recovery time. 
+"Immunized" represents an individual who was either vaccinated at the start of the simulation, or who reached immunization by outlasting the recovery time.
 
-"Dead" represents an individual who is deceased. This is a bit reductionist; more realistically, it might represent an individual who has recovered, with or without complications. 
+"Dead" represents an individual who is deceased. This is a bit reductionist; more realistically, it might also represent an individual who recovered later with complications.
 
 Enclosed in the "simulations" folder is a set of four outputs in both video and photo form. Each output corresponds to a different spread rate: 10%, 25%, 50%, and 75%. 
